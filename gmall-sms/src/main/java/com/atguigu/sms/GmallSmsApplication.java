@@ -1,4 +1,4 @@
-package com.atguigu.sms.sms;
+package com.atguigu.sms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
